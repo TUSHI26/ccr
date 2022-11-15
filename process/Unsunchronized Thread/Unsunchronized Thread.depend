@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1453745687 source:/home/jakaria/LAB6/Unsunchronized Thread/main.c
+	<stdio.h>
+	<string.h>
+	<pthread.h>
+	<stdlib.h>
+	<unistd.h>
+
+1667150878 source:e:\lab 5\process\unsunchronized thread\main.c
+	<stdio.h>
+	<string.h>
+	<pthread.h>
+	<stdlib.h>
+	<unistd.h>
+
